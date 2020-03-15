@@ -1,4 +1,4 @@
-# Fruitie_AppLab
+# Fruitie
 Repo for a pixel game made using AppLab
 
 ### Link:
